@@ -1,6 +1,6 @@
 
 # Learning Tech
-The "Learning Tech" project is a web-based application developed using HTML, CSS, and the Bootstrap framework. It aims to provide educational content or resources to users. The live project link can be accessed at Learning Tech Live.
+The "Learning Tech" project is a web-based application developed using HTML, CSS, and the Bootstrap framework. It aims to provide educational content or resources to users. The live project link can be accessed at Learning Tech Live :https://magical-kataifi-511cfb.netlify.app/.
 
 # Project Overview
 The primary goal of this project is to offer a platform for users to access educational content, resources, or tools related to technology and learning.
