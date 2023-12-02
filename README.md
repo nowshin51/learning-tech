@@ -14,10 +14,10 @@ The live version of this project is hosted on Netlify and can be accessed at Lea
 # How to Run the Project
 To run the project locally:
 
-Clone the repository using Git or download the project files.
-Open the project in Visual Studio Code or any preferred code editor.
-Ensure you have a browser installed (such as Google Chrome, Firefox, etc.) to view the HTML files.
-Simply open the index.html file in your preferred browser to view the project locally.
+-Clone the repository using Git or download the project files.
+-Open the project in Visual Studio Code or any preferred code editor.
+-Ensure you have a browser installed (such as Google Chrome, Firefox, etc.) to view the HTML files.
+-Simply open the index.html file in your preferred browser to view the project locally.
 
 ## Project Structure
 The project includes HTML files, CSS stylesheets, and any necessary image or document files. Ensure all files are organized in their respective directories.
